@@ -1,0 +1,15 @@
+Microsoft Azure:
+1. Services provided are SaaS and IaaS
+2. Other options of VM are containers and serverless computing
+3. Docker, an open source platform is an example of container
+
+URL of the Git Remote
+https://maha1505@ctmsapp.scm.azurewebsites.net/CTMSApp.gits
+https://maha1505@ctmsapp.scm.azurewebsites.net/CTMSApp.git
+
+http://ctmsapp.azurewebsites.net/
+http://CTMSApp.azurewebsites.net
+
+Error:fatal: repository 'https://ctmsapp.scm.azurewebsites.net/CTMSApp.gits/' not found
+
+site\wwwroot\Attendance\composer_demo\examples\server\

